@@ -1,0 +1,11 @@
+# Dataset
+Position_Salaries.csv
+
+# Assignment PDF
+Assignment-3(22-23 July).pdf
+
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
