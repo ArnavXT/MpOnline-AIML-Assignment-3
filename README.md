@@ -32,7 +32,9 @@ Model Evaluation: Predicted salaries on the test split and scored the model with
 
 ## Results
 **MAE:** ≈ 70,635
+
 **MSE:** ≈ 6.26 × 10⁹
+
 **R² Score:** ≈ 0.876
 
 The regression curve (see notebook) closely follows the sharp upward bend in salary at senior levels, which a straight line cannot do. With only 10 total data points, the 80/20 split leaves just 2 test points, so these metrics are indicative rather than statistically robust — the largest error occurs at the topmost level (CEO), where the salary jump is steepest and data is sparsest.
